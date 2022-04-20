@@ -1,0 +1,10 @@
+        5
+        rice 45 65
+        dhal 23 12
+        tea 90 10
+        coffee 120 5
+        soap 45 6
+        3
+        coffee 6
+        soap 2
+        rice 10
