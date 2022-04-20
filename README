@@ -1,4 +1,8 @@
-READ ME
-    Written by Mann Dharmesh Acharya, Bennett University; https://github.com/mach-12
-    To test using Redirection, Run file with command:
-    ./grocery < test.txt
+Written by Mann Dharmesh Acharya, Bennett University
+https://github.com/mach-12
+
+Instructions:
+To test using Redirection, Run file with command:
+./grocery < test.txt
+
+This was fun to write. Hoping to learn more things in C.
