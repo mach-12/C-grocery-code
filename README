@@ -1,1 +1,4 @@
-README
+READ ME
+    Written by Mann Dharmesh Acharya, Bennett University; https://github.com/mach-12
+    To test using Redirection, Run file with command:
+    ./grocery < test.txt
