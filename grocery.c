@@ -1,26 +1,3 @@
-/*
-READ ME
-    Written by Mann Dharmesh Acharya; https://github.com/mach-12
-    Bennett University
-
-    How to test code using file redirection:
-
-    1) Make a file test.txt in same directory.
-    2) Fill test.txt with the below text:
-        5
-        rice 45 65
-        dhal 23 12
-        tea 90 10
-        coffee 120 5
-        soap 45 6
-        3
-        coffee 6
-        soap 2
-        rice 10
-    3) Run file with command:
-        ./grocery < test.txt
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
